@@ -1,4 +1,4 @@
-In second part of Query we used this to correcting pollution data with LIKE and String operations :
+In the first part of Query we used this to correcting pollution data with LIKE and String operations :
 CREATE TABLE
 md_water_services.well_pollution_copy
 AS (
